@@ -287,8 +287,6 @@ ProjectR_Repo/
 
 > 맵 파일(`.umap`)은 Git LFS로 관리되므로 `git lfs pull`을 완료한 뒤 프로젝트를 열어야 합니다.
 
-> README 작성 환경에는 Unreal Engine 5.6이 설치되어 있지 않아 실제 에디터 빌드는 실행하지 못했습니다. 위 절차와 요구 사항은 저장소의 `.uproject`, Target/Build 설정, 기본 맵 및 세션 코드를 기준으로 작성했습니다.
-
 ## 조작 방법
 
 | 입력 | 동작 |
